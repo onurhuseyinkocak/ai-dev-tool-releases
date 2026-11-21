@@ -1,0 +1,9 @@
+{
+  "name": "ai-dev-tool-releases",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test scripts/update.test.mjs",
+    "update": "node scripts/update.mjs"
+  }
+}
