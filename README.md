@@ -14,10 +14,10 @@ Browse it: https://vibecodingturkey.com/releases
 - `kind`: `agent`, `editor`, `sdk`, `framework`, `runtime` or `app`.
 - `date`: GitHub release `published_at` (UTC). `url`: the GitHub release page.
 - `major`: the major version number went up compared with the previous version.
-- `breaking`: `major`, or the release notes mention a breaking change (keyword match, so treat it as a hint and read the notes).
+- `breaking`: the release notes mention a breaking change (keyword match, so treat it as a hint and read the notes).
 - Release notes are not copied; follow `url`. Monorepos are filtered to the main package's tags.
 
-The upstream export covers each tool's recent releases (usually the latest 20 to 50); this repo keeps every version it has seen since **2026-11-21**, so older versions stay after they leave that window.
+The upstream export covers up to each tool's 20 most recent releases; this repo keeps every version it has seen since **2026-11-21**, so older versions stay after they leave that window.
 
 ## Example
 
@@ -33,4 +33,4 @@ A GitHub Action runs daily at 05:23 UTC, reads https://vibecodingturkey.com/rele
 
 ## Licence
 
-Release metadata comes from each project's public GitHub releases. This compilation (selection, normalised versions, `major`/`breaking` flags, release cadence) is licensed under [CC BY 4.0](LICENSE). Attribution: "AI developer tool releases, vibecodingturkey.com".
+Release metadata comes from each project's public GitHub releases. This compilation (selection, normalised versions, `major`/`breaking` flags, release cadence) is licensed under [CC BY 4.0](LICENSE). The code in `scripts/` and `.github/` is MIT licensed. Attribution: "AI developer tool releases, vibecodingturkey.com".
