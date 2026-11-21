@@ -33,4 +33,4 @@ A GitHub Action runs daily at 05:23 UTC, reads https://vibecodingturkey.com/rele
 
 ## Licence
 
-Release metadata comes from each project's public GitHub releases. This compilation (selection, normalised versions, `major`/`breaking` flags, release cadence) is licensed under [CC BY 4.0](LICENSE). The code in `scripts/` and `.github/` is MIT licensed. Attribution: "AI developer tool releases, vibecodingturkey.com".
+Release metadata comes from each project's public GitHub releases. This compilation (selection, normalised versions, `major`/`breaking` flags, release cadence) is licensed under [CC BY 4.0](LICENSE). The code in `scripts/` and `.github/` is MIT licensed ([`LICENSE-CODE`](LICENSE-CODE)). Attribution: "AI developer tool releases, vibecodingturkey.com".
