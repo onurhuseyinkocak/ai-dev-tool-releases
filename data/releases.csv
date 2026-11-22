@@ -179,7 +179,7 @@ codex,OpenAI Codex CLI,openai/codex,agent,0.160.0,rust-v0.160.0,2026-10-01T20:19
 codex,OpenAI Codex CLI,openai/codex,agent,0.159.3,rust-v0.159.3,2026-09-30T22:57:34Z,https://github.com/openai/codex/releases/tag/rust-v0.159.3,0,0
 codex,OpenAI Codex CLI,openai/codex,agent,0.159.2,rust-v0.159.2,2026-09-29T23:57:16Z,https://github.com/openai/codex/releases/tag/rust-v0.159.2,0,0
 codex,OpenAI Codex CLI,openai/codex,agent,0.159.1,rust-v0.159.1,2026-09-29T20:32:34Z,https://github.com/openai/codex/releases/tag/rust-v0.159.1,0,0
-continue,Continue,continuedev/continue,agent,2.0.0-vscode,v2.0.0-vscode,2026-06-19T00:24:01Z,https://github.com/continuedev/continue/releases/tag/v2.0.0-vscode,1,1
+continue,Continue,continuedev/continue,agent,2.0.0-vscode,v2.0.0-vscode,2026-06-19T00:24:01Z,https://github.com/continuedev/continue/releases/tag/v2.0.0-vscode,1,0
 continue,Continue,continuedev/continue,agent,1.2.24-vscode,v1.2.24-vscode,2026-06-15T16:59:46Z,https://github.com/continuedev/continue/releases/tag/v1.2.24-vscode,0,0
 continue,Continue,continuedev/continue,agent,1.2.23-vscode,v1.2.23-vscode,2026-06-15T16:27:25Z,https://github.com/continuedev/continue/releases/tag/v1.2.23-vscode,0,0
 continue,Continue,continuedev/continue,agent,1.2.22-vscode,v1.2.22-vscode,2026-03-27T21:25:10Z,https://github.com/continuedev/continue/releases/tag/v1.2.22-vscode,0,0
@@ -553,6 +553,7 @@ langgraph,LangGraph,langchain-ai/langgraph,framework,1.2.8,1.2.8,2026-07-06T20:4
 langgraph,LangGraph,langchain-ai/langgraph,framework,1.2.7,1.2.7,2026-06-30T01:24:26Z,https://github.com/langchain-ai/langgraph/releases/tag/1.2.7,0,0
 langgraph,LangGraph,langchain-ai/langgraph,framework,1.2.6,1.2.6,2026-06-18T20:58:32Z,https://github.com/langchain-ai/langgraph/releases/tag/1.2.6,0,0
 langgraph,LangGraph,langchain-ai/langgraph,framework,1.2.5,1.2.5,2026-06-12T20:31:14Z,https://github.com/langchain-ai/langgraph/releases/tag/1.2.5,0,0
+litellm,LiteLLM,BerriAI/litellm,framework,1.108.15,v1.108.15,2026-11-21T21:35:07Z,https://github.com/BerriAI/litellm/releases/tag/v1.108.15,0,0
 litellm,LiteLLM,BerriAI/litellm,framework,1.108.14,v1.108.14,2026-11-20T23:43:31Z,https://github.com/BerriAI/litellm/releases/tag/v1.108.14,0,0
 litellm,LiteLLM,BerriAI/litellm,framework,1.106.12,v1.106.12,2026-11-20T05:52:24Z,https://github.com/BerriAI/litellm/releases/tag/v1.106.12,0,0
 litellm,LiteLLM,BerriAI/litellm,framework,1.110.2,v1.110.2,2026-11-20T04:06:19Z,https://github.com/BerriAI/litellm/releases/tag/v1.110.2,0,0
@@ -573,6 +574,21 @@ litellm,LiteLLM,BerriAI/litellm,framework,1.109.1,v1.109.1,2026-11-12T02:07:01Z,
 litellm,LiteLLM,BerriAI/litellm,framework,1.108.6,v1.108.6,2026-11-12T01:12:23Z,https://github.com/BerriAI/litellm/releases/tag/v1.108.6,0,0
 litellm,LiteLLM,BerriAI/litellm,framework,1.106.9,v1.106.9,2026-11-12T01:06:15Z,https://github.com/BerriAI/litellm/releases/tag/v1.106.9,0,0
 litellm,LiteLLM,BerriAI/litellm,framework,1.106.8,v1.106.8,2026-11-11T03:23:36Z,https://github.com/BerriAI/litellm/releases/tag/v1.106.8,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12631,b12631,2026-11-22T09:03:19Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12631,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12629,b12629,2026-11-22T08:43:35Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12629,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12628,b12628,2026-11-22T06:53:42Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12628,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12627,b12627,2026-11-22T03:51:24Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12627,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12626,b12626,2026-11-22T02:20:06Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12626,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12625,b12625,2026-11-22T02:01:35Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12625,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12624,b12624,2026-11-22T01:47:52Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12624,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12623,b12623,2026-11-22T01:11:05Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12623,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12622,b12622,2026-11-22T00:49:57Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12622,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12621,b12621,2026-11-22T00:37:17Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12621,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12620,b12620,2026-11-22T00:16:20Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12620,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12619,b12619,2026-11-21T23:45:36Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12619,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12618,b12618,2026-11-21T23:30:57Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12618,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12617,b12617,2026-11-21T23:04:00Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12617,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12615,b12615,2026-11-21T22:47:34Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12615,0,0
 llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12613,b12613,2026-11-21T19:40:37Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12613,0,0
 llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12612,b12612,2026-11-21T19:28:39Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12612,0,0
 llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12611,b12611,2026-11-21T19:12:42Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12611,0,0
@@ -613,6 +629,7 @@ llamaindex,LlamaIndex,run-llama/llama_index,framework,0.14.8,v0.14.8,2025-11-10T
 llamaindex,LlamaIndex,run-llama/llama_index,framework,0.14.7,v0.14.7,2025-10-30T23:58:43Z,https://github.com/run-llama/llama_index/releases/tag/v0.14.7,0,0
 llamaindex,LlamaIndex,run-llama/llama_index,framework,0.14.6,v0.14.6,2025-10-26T03:01:31Z,https://github.com/run-llama/llama_index/releases/tag/v0.14.6,0,0
 llamaindex,LlamaIndex,run-llama/llama_index,framework,0.14.5,v0.14.5,2025-10-15T19:10:56Z,https://github.com/run-llama/llama_index/releases/tag/v0.14.5,0,0
+lobehub,LobeHub,lobehub/lobehub,app,2.3.5,v2.3.5,2026-11-22T09:47:39Z,https://github.com/lobehub/lobehub/releases/tag/v2.3.5,0,0
 lobehub,LobeHub,lobehub/lobehub,app,2.3.4,v2.3.4,2026-11-18T02:51:54Z,https://github.com/lobehub/lobehub/releases/tag/v2.3.4,0,0
 lobehub,LobeHub,lobehub/lobehub,app,2.3.3,v2.3.3,2026-11-12T12:59:33Z,https://github.com/lobehub/lobehub/releases/tag/v2.3.3,0,0
 lobehub,LobeHub,lobehub/lobehub,app,2.3.2,v2.3.2,2026-11-06T15:52:27Z,https://github.com/lobehub/lobehub/releases/tag/v2.3.2,0,0
@@ -622,7 +639,7 @@ lobehub,LobeHub,lobehub/lobehub,app,2.2.21,v2.2.21,2026-10-29T08:24:00Z,https://
 lobehub,LobeHub,lobehub/lobehub,app,2.2.20,v2.2.20,2026-10-18T03:18:40Z,https://github.com/lobehub/lobehub/releases/tag/v2.2.20,0,0
 lobehub,LobeHub,lobehub/lobehub,app,2.2.19,v2.2.19,2026-10-07T10:50:55Z,https://github.com/lobehub/lobehub/releases/tag/v2.2.19,0,0
 lobehub,LobeHub,lobehub/lobehub,app,2.2.18,v2.2.18,2026-09-20T13:11:30Z,https://github.com/lobehub/lobehub/releases/tag/v2.2.18,0,0
-lobehub,LobeHub,lobehub/lobehub,app,2.0.0,v2.0.0,2026-01-27T08:43:50Z,https://github.com/lobehub/lobehub/releases/tag/v2.0.0,0,0
+lobehub,LobeHub,lobehub/lobehub,app,2.0.0,v2.0.0,2026-01-27T08:43:50Z,https://github.com/lobehub/lobehub/releases/tag/v2.0.0,1,0
 localai,LocalAI,mudler/LocalAI,runtime,5.0.1,v5.0.1,2026-11-20T17:03:10Z,https://github.com/mudler/LocalAI/releases/tag/v5.0.1,0,0
 localai,LocalAI,mudler/LocalAI,runtime,5.0.0,v5.0.0,2026-11-18T17:00:23Z,https://github.com/mudler/LocalAI/releases/tag/v5.0.0,1,1
 localai,LocalAI,mudler/LocalAI,runtime,4.12.1,v4.12.1,2026-10-23T10:27:00Z,https://github.com/mudler/LocalAI/releases/tag/v4.12.1,0,0
@@ -661,7 +678,7 @@ mastra,Mastra,mastra-ai/mastra,framework,1.70.0,@mastra/core@1.70.0,2026-09-25T1
 mastra,Mastra,mastra-ai/mastra,framework,1.69.0,@mastra/core@1.69.0,2026-09-24T06:58:56Z,https://github.com/mastra-ai/mastra/releases/tag/%40mastra/core%401.69.0,0,1
 mastra,Mastra,mastra-ai/mastra,framework,1.68.0,@mastra/core@1.68.0,2026-09-23T08:40:08Z,https://github.com/mastra-ai/mastra/releases/tag/%40mastra/core%401.68.0,0,1
 mastra,Mastra,mastra-ai/mastra,framework,1.67.0,@mastra/core@1.67.0,2026-09-15T15:49:41Z,https://github.com/mastra-ai/mastra/releases/tag/%40mastra/core%401.67.0,0,1
-mastra,Mastra,mastra-ai/mastra,framework,1.66.0,@mastra/core@1.66.0,2026-09-11T09:37:43Z,https://github.com/mastra-ai/mastra/releases/tag/%40mastra/core%401.66.0,0,1
+mastra,Mastra,mastra-ai/mastra,framework,1.66.0,@mastra/core@1.66.0,2026-09-11T09:37:43Z,https://github.com/mastra-ai/mastra/releases/tag/%40mastra/core%401.66.0,0,0
 mastra,Mastra,mastra-ai/mastra,framework,1.65.0,@mastra/core@1.65.0,2026-09-09T09:43:36Z,https://github.com/mastra-ai/mastra/releases/tag/%40mastra/core%401.65.0,0,1
 mcp-inspector,MCP Inspector,modelcontextprotocol/inspector,sdk,2.16.0,2.16.0,2026-11-18T09:08:03Z,https://github.com/modelcontextprotocol/inspector/releases/tag/2.16.0,0,0
 mcp-inspector,MCP Inspector,modelcontextprotocol/inspector,sdk,1.0.6,1.0.6,2026-11-18T08:06:30Z,https://github.com/modelcontextprotocol/inspector/releases/tag/1.0.6,0,0
@@ -706,7 +723,7 @@ mcp-python-sdk,MCP Python SDK,modelcontextprotocol/python-sdk,sdk,1.23.1,v1.23.1
 mcp-typescript-sdk,MCP TypeScript SDK,modelcontextprotocol/typescript-sdk,sdk,2.4.0,v2.4.0,2026-10-23T18:32:25Z,https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/v2.4.0,0,0
 mcp-typescript-sdk,MCP TypeScript SDK,modelcontextprotocol/typescript-sdk,sdk,2.3.1,v2.3.1,2026-10-05T11:54:56Z,https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/v2.3.1,0,0
 mcp-typescript-sdk,MCP TypeScript SDK,modelcontextprotocol/typescript-sdk,sdk,2.3.0,v2.3.0,2026-10-02T17:55:03Z,https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/v2.3.0,0,0
-mcp-typescript-sdk,MCP TypeScript SDK,modelcontextprotocol/typescript-sdk,sdk,2.2.0,v2.2.0,2026-09-28T19:24:07Z,https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/v2.2.0,1,1
+mcp-typescript-sdk,MCP TypeScript SDK,modelcontextprotocol/typescript-sdk,sdk,2.2.0,v2.2.0,2026-09-28T19:24:07Z,https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/v2.2.0,0,0
 mcp-typescript-sdk,MCP TypeScript SDK,modelcontextprotocol/typescript-sdk,sdk,1.29.0,v1.29.0,2026-03-30T16:49:30Z,https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/v1.29.0,0,0
 mcp-typescript-sdk,MCP TypeScript SDK,modelcontextprotocol/typescript-sdk,sdk,1.28.0,v1.28.0,2026-03-25T11:39:01Z,https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/v1.28.0,0,0
 mcp-typescript-sdk,MCP TypeScript SDK,modelcontextprotocol/typescript-sdk,sdk,1.27.1,v1.27.1,2026-02-24T21:55:10Z,https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/v1.27.1,0,0
@@ -793,7 +810,7 @@ openai-agents-python,OpenAI Agents SDK (Python),openai/openai-agents-python,sdk,
 openai-agents-python,OpenAI Agents SDK (Python),openai/openai-agents-python,sdk,0.19.3,v0.19.3,2026-08-04T07:17:48Z,https://github.com/openai/openai-agents-python/releases/tag/v0.19.3,0,0
 openai-agents-python,OpenAI Agents SDK (Python),openai/openai-agents-python,sdk,0.19.2,v0.19.2,2026-08-01T01:08:37Z,https://github.com/openai/openai-agents-python/releases/tag/v0.19.2,0,0
 openai-agents-python,OpenAI Agents SDK (Python),openai/openai-agents-python,sdk,0.19.1,v0.19.1,2026-07-29T07:44:24Z,https://github.com/openai/openai-agents-python/releases/tag/v0.19.1,0,0
-openai-agents-python,OpenAI Agents SDK (Python),openai/openai-agents-python,sdk,0.19.0,v0.19.0,2026-07-27T04:10:05Z,https://github.com/openai/openai-agents-python/releases/tag/v0.19.0,0,1
+openai-agents-python,OpenAI Agents SDK (Python),openai/openai-agents-python,sdk,0.19.0,v0.19.0,2026-07-27T04:10:05Z,https://github.com/openai/openai-agents-python/releases/tag/v0.19.0,0,0
 openai-agents-python,OpenAI Agents SDK (Python),openai/openai-agents-python,sdk,0.18.3,v0.18.3,2026-07-17T03:39:51Z,https://github.com/openai/openai-agents-python/releases/tag/v0.18.3,0,0
 openai-agents-python,OpenAI Agents SDK (Python),openai/openai-agents-python,sdk,0.18.2,v0.18.2,2026-07-11T01:07:46Z,https://github.com/openai/openai-agents-python/releases/tag/v0.18.2,0,0
 openai-agents-python,OpenAI Agents SDK (Python),openai/openai-agents-python,sdk,0.18.1,v0.18.1,2026-07-09T23:38:36Z,https://github.com/openai/openai-agents-python/releases/tag/v0.18.1,0,0
@@ -870,7 +887,7 @@ opencode,OpenCode,anomalyco/opencode,agent,2.2.3,v2.2.3,2026-10-30T09:55:45Z,htt
 opencode,OpenCode,anomalyco/opencode,agent,2.2.2,v2.2.2,2026-10-29T18:43:03Z,https://github.com/anomalyco/opencode/releases/tag/v2.2.2,0,0
 opencode,OpenCode,anomalyco/opencode,agent,2.2.1,v2.2.1,2026-10-29T05:16:55Z,https://github.com/anomalyco/opencode/releases/tag/v2.2.1,0,1
 opencode,OpenCode,anomalyco/opencode,agent,1.19.5,v1.19.5,2026-10-28T06:17:49Z,https://github.com/anomalyco/opencode/releases/tag/v1.19.5,0,0
-opencode,OpenCode,anomalyco/opencode,agent,2.2.0,v2.2.0,2026-10-27T09:04:44Z,https://github.com/anomalyco/opencode/releases/tag/v2.2.0,1,1
+opencode,OpenCode,anomalyco/opencode,agent,2.2.0,v2.2.0,2026-10-27T09:04:44Z,https://github.com/anomalyco/opencode/releases/tag/v2.2.0,0,1
 opencode,OpenCode,anomalyco/opencode,agent,1.19.4,v1.19.4,2026-10-22T13:03:41Z,https://github.com/anomalyco/opencode/releases/tag/v1.19.4,0,0
 opencode,OpenCode,anomalyco/opencode,agent,1.19.3,v1.19.3,2026-10-16T12:31:52Z,https://github.com/anomalyco/opencode/releases/tag/v1.19.3,0,0
 opencode,OpenCode,anomalyco/opencode,agent,1.19.2,v1.19.2,2026-10-16T02:30:38Z,https://github.com/anomalyco/opencode/releases/tag/v1.19.2,0,0
@@ -978,25 +995,26 @@ pydantic-ai,Pydantic AI,pydantic/pydantic-ai,framework,2.58.0,v2.58.0,2026-10-20
 pydantic-ai,Pydantic AI,pydantic/pydantic-ai,framework,2.57.0,v2.57.0,2026-10-16T03:35:35Z,https://github.com/pydantic/pydantic-ai/releases/tag/v2.57.0,0,0
 pydantic-ai,Pydantic AI,pydantic/pydantic-ai,framework,2.56.0,v2.56.0,2026-10-13T23:35:15Z,https://github.com/pydantic/pydantic-ai/releases/tag/v2.56.0,0,0
 pydantic-ai,Pydantic AI,pydantic/pydantic-ai,framework,2.55.0,v2.55.0,2026-10-09T19:20:25Z,https://github.com/pydantic/pydantic-ai/releases/tag/v2.55.0,0,0
-qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.28.3,v0.28.3,2026-11-21T01:45:48Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.28.3,0,1
-qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.28.0,v0.28.0,2026-11-17T11:17:50Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.28.0,0,1
-qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.27.4,v0.27.4,2026-11-15T07:04:40Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.27.4,0,1
-qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.27.3,v0.27.3,2026-11-13T00:24:34Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.27.3,0,1
+qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.28.4,v0.28.4,2026-11-22T12:04:21Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.28.4,0,0
+qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.28.3,v0.28.3,2026-11-21T01:45:48Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.28.3,0,0
+qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.28.0,v0.28.0,2026-11-17T11:17:50Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.28.0,0,0
+qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.27.4,v0.27.4,2026-11-15T07:04:40Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.27.4,0,0
+qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.27.3,v0.27.3,2026-11-13T00:24:34Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.27.3,0,0
 qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.27.2,v0.27.2,2026-11-10T19:22:00Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.27.2,0,1
-qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.27.1,v0.27.1,2026-11-09T13:30:44Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.27.1,0,1
-qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.27.0,v0.27.0,2026-11-07T20:45:25Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.27.0,0,1
-qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.26.9,v0.26.9,2026-11-06T16:07:57Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.26.9,0,1
-qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.26.8,v0.26.8,2026-11-05T16:23:57Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.26.8,0,1
-qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.26.7,v0.26.7,2026-11-04T04:03:01Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.26.7,0,1
-qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.26.6,v0.26.6,2026-11-02T18:22:40Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.26.6,0,1
-qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.26.5,v0.26.5,2026-11-01T03:22:50Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.26.5,0,1
-qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.26.4,v0.26.4,2026-10-29T14:29:11Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.26.4,0,1
-qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.26.3,v0.26.3,2026-10-28T14:36:14Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.26.3,0,1
+qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.27.1,v0.27.1,2026-11-09T13:30:44Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.27.1,0,0
+qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.27.0,v0.27.0,2026-11-07T20:45:25Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.27.0,0,0
+qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.26.9,v0.26.9,2026-11-06T16:07:57Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.26.9,0,0
+qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.26.8,v0.26.8,2026-11-05T16:23:57Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.26.8,0,0
+qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.26.7,v0.26.7,2026-11-04T04:03:01Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.26.7,0,0
+qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.26.6,v0.26.6,2026-11-02T18:22:40Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.26.6,0,0
+qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.26.5,v0.26.5,2026-11-01T03:22:50Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.26.5,0,0
+qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.26.4,v0.26.4,2026-10-29T14:29:11Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.26.4,0,0
+qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.26.3,v0.26.3,2026-10-28T14:36:14Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.26.3,0,0
 qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.26.2,v0.26.2,2026-10-27T15:32:11Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.26.2,0,1
 qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.26.1,v0.26.1,2026-10-24T15:47:58Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.26.1,0,1
-qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.26.0,v0.26.0,2026-10-21T23:20:53Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.26.0,0,1
-qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.25.3,v0.25.3,2026-10-19T06:06:37Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.25.3,0,1
-qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.25.2,v0.25.2,2026-10-15T15:41:15Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.25.2,0,1
+qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.26.0,v0.26.0,2026-10-21T23:20:53Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.26.0,0,0
+qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.25.3,v0.25.3,2026-10-19T06:06:37Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.25.3,0,0
+qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.25.2,v0.25.2,2026-10-15T15:41:15Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.25.2,0,0
 qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.25.1,v0.25.1,2026-10-11T10:20:36Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.25.1,0,1
 semantic-kernel,Semantic Kernel (Python),microsoft/semantic-kernel,framework,1.47.0,python-1.47.0,2026-11-05T10:19:23Z,https://github.com/microsoft/semantic-kernel/releases/tag/python-1.47.0,0,1
 semantic-kernel,Semantic Kernel (Python),microsoft/semantic-kernel,framework,1.46.0,python-1.46.0,2026-10-28T14:09:20Z,https://github.com/microsoft/semantic-kernel/releases/tag/python-1.46.0,0,0
@@ -1107,10 +1125,10 @@ vercel-ai-sdk,Vercel AI SDK,vercel/ai,framework,7.0.175,ai@7.0.175,2026-11-17T19
 vercel-ai-sdk,Vercel AI SDK,vercel/ai,framework,5.0.291,ai@5.0.291,2026-11-17T19:53:38Z,https://github.com/vercel/ai/releases/tag/ai%405.0.291,0,0
 vercel-ai-sdk,Vercel AI SDK,vercel/ai,framework,7.0.174,ai@7.0.174,2026-11-17T18:39:35Z,https://github.com/vercel/ai/releases/tag/ai%407.0.174,0,0
 vercel-ai-sdk,Vercel AI SDK,vercel/ai,framework,6.0.333,ai@6.0.333,2026-11-17T18:38:30Z,https://github.com/vercel/ai/releases/tag/ai%406.0.333,0,0
-vercel-ai-sdk,Vercel AI SDK,vercel/ai,framework,6.0.332,ai@6.0.332,2026-11-13T23:44:02Z,https://github.com/vercel/ai/releases/tag/ai%406.0.332,1,1
+vercel-ai-sdk,Vercel AI SDK,vercel/ai,framework,6.0.332,ai@6.0.332,2026-11-13T23:44:02Z,https://github.com/vercel/ai/releases/tag/ai%406.0.332,0,0
 vercel-ai-sdk,Vercel AI SDK,vercel/ai,framework,5.0.290,ai@5.0.290,2026-11-13T23:43:05Z,https://github.com/vercel/ai/releases/tag/ai%405.0.290,0,0
 vercel-ai-sdk,Vercel AI SDK,vercel/ai,framework,7.0.173,ai@7.0.173,2026-11-13T22:34:02Z,https://github.com/vercel/ai/releases/tag/ai%407.0.173,0,0
-vercel-ai-sdk,Vercel AI SDK,vercel/ai,framework,7.0.172,ai@7.0.172,2026-11-13T05:57:52Z,https://github.com/vercel/ai/releases/tag/ai%407.0.172,1,1
+vercel-ai-sdk,Vercel AI SDK,vercel/ai,framework,7.0.172,ai@7.0.172,2026-11-13T05:57:52Z,https://github.com/vercel/ai/releases/tag/ai%407.0.172,0,0
 vllm,vLLM,vllm-project/vllm,runtime,0.34.0,v0.34.0,2026-11-16T23:22:00Z,https://github.com/vllm-project/vllm/releases/tag/v0.34.0,0,1
 vllm,vLLM,vllm-project/vllm,runtime,0.32.0,v0.32.0,2026-10-18T06:50:48Z,https://github.com/vllm-project/vllm/releases/tag/v0.32.0,0,1
 vllm,vLLM,vllm-project/vllm,runtime,0.31.0,v0.31.0,2026-10-05T06:44:55Z,https://github.com/vllm-project/vllm/releases/tag/v0.31.0,0,1

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T20:08:28.850Z",
+ "generated": "2026-11-22T12:52:02.224Z",
  "page": "https://vibecodingturkey.com/releases",
  "tools": [
   {
@@ -1546,7 +1546,7 @@
      "date": "2026-06-19T00:24:01Z",
      "url": "https://github.com/continuedev/continue/releases/tag/v2.0.0-vscode",
      "major": true,
-     "breaking": true
+     "breaking": false
     },
     {
      "version": "1.2.24-vscode",
@@ -4720,8 +4720,16 @@
    "repo": "BerriAI/litellm",
    "kind": "framework",
    "page": "https://vibecodingturkey.com/releases/litellm",
-   "median_gap_days": 0.15306134259259258,
+   "median_gap_days": 0.45984375,
    "releases": [
+    {
+     "version": "1.108.15",
+     "tag": "v1.108.15",
+     "date": "2026-11-21T21:35:07Z",
+     "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.15",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "1.108.14",
      "tag": "v1.108.14",
@@ -4890,8 +4898,128 @@
    "repo": "ggml-org/llama.cpp",
    "kind": "runtime",
    "page": "https://vibecodingturkey.com/releases/llama-cpp",
-   "median_gap_days": 0.016649305555555556,
+   "median_gap_days": 0.014612268518518517,
    "releases": [
+    {
+     "version": "b12631",
+     "tag": "b12631",
+     "date": "2026-11-22T09:03:19Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12631",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12629",
+     "tag": "b12629",
+     "date": "2026-11-22T08:43:35Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12629",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12628",
+     "tag": "b12628",
+     "date": "2026-11-22T06:53:42Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12628",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12627",
+     "tag": "b12627",
+     "date": "2026-11-22T03:51:24Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12627",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12626",
+     "tag": "b12626",
+     "date": "2026-11-22T02:20:06Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12626",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12625",
+     "tag": "b12625",
+     "date": "2026-11-22T02:01:35Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12625",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12624",
+     "tag": "b12624",
+     "date": "2026-11-22T01:47:52Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12624",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12623",
+     "tag": "b12623",
+     "date": "2026-11-22T01:11:05Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12623",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12622",
+     "tag": "b12622",
+     "date": "2026-11-22T00:49:57Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12622",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12621",
+     "tag": "b12621",
+     "date": "2026-11-22T00:37:17Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12621",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12620",
+     "tag": "b12620",
+     "date": "2026-11-22T00:16:20Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12620",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12619",
+     "tag": "b12619",
+     "date": "2026-11-21T23:45:36Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12619",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12618",
+     "tag": "b12618",
+     "date": "2026-11-21T23:30:57Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12618",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12617",
+     "tag": "b12617",
+     "date": "2026-11-21T23:04:00Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12617",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12615",
+     "tag": "b12615",
+     "date": "2026-11-21T22:47:34Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12615",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "b12613",
      "tag": "b12613",
@@ -5230,8 +5358,16 @@
    "repo": "lobehub/lobehub",
    "kind": "app",
    "page": "https://vibecodingturkey.com/releases/lobehub",
-   "median_gap_days": 5.879930555555555,
+   "median_gap_days": 5.728975694444444,
    "releases": [
+    {
+     "version": "2.3.5",
+     "tag": "v2.3.5",
+     "date": "2026-11-22T09:47:39Z",
+     "url": "https://github.com/lobehub/lobehub/releases/tag/v2.3.5",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "2.3.4",
      "tag": "v2.3.4",
@@ -5309,7 +5445,7 @@
      "tag": "v2.0.0",
      "date": "2026-01-27T08:43:50Z",
      "url": "https://github.com/lobehub/lobehub/releases/tag/v2.0.0",
-     "major": false,
+     "major": true,
      "breaking": false
     }
    ]
@@ -5642,7 +5778,7 @@
      "date": "2026-09-11T09:37:43Z",
      "url": "https://github.com/mastra-ai/mastra/releases/tag/%40mastra/core%401.66.0",
      "major": false,
-     "breaking": true
+     "breaking": false
     },
     {
      "version": "1.65.0",
@@ -6031,8 +6167,8 @@
      "tag": "v2.2.0",
      "date": "2026-09-28T19:24:07Z",
      "url": "https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/v2.2.0",
-     "major": true,
-     "breaking": true
+     "major": false,
+     "breaking": false
     },
     {
      "version": "1.29.0",
@@ -6778,7 +6914,7 @@
      "date": "2026-07-27T04:10:05Z",
      "url": "https://github.com/openai/openai-agents-python/releases/tag/v0.19.0",
      "major": false,
-     "breaking": true
+     "breaking": false
     },
     {
      "version": "0.18.3",
@@ -7433,7 +7569,7 @@
      "tag": "v2.2.0",
      "date": "2026-10-27T09:04:44Z",
      "url": "https://github.com/anomalyco/opencode/releases/tag/v2.2.0",
-     "major": true,
+     "major": false,
      "breaking": true
     },
     {
@@ -8350,15 +8486,23 @@
    "repo": "QwenLM/qwen-code",
    "kind": "agent",
    "page": "https://vibecodingturkey.com/releases/qwen-code",
-   "median_gap_days": 2.1929629629629632,
+   "median_gap_days": 1.9369733796296296,
    "releases": [
+    {
+     "version": "0.28.4",
+     "tag": "v0.28.4",
+     "date": "2026-11-22T12:04:21Z",
+     "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.28.4",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "0.28.3",
      "tag": "v0.28.3",
      "date": "2026-11-21T01:45:48Z",
      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.28.3",
      "major": false,
-     "breaking": true
+     "breaking": false
     },
     {
      "version": "0.28.0",
@@ -8366,7 +8510,7 @@
      "date": "2026-11-17T11:17:50Z",
      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.28.0",
      "major": false,
-     "breaking": true
+     "breaking": false
     },
     {
      "version": "0.27.4",
@@ -8374,7 +8518,7 @@
      "date": "2026-11-15T07:04:40Z",
      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.27.4",
      "major": false,
-     "breaking": true
+     "breaking": false
     },
     {
      "version": "0.27.3",
@@ -8382,7 +8526,7 @@
      "date": "2026-11-13T00:24:34Z",
      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.27.3",
      "major": false,
-     "breaking": true
+     "breaking": false
     },
     {
      "version": "0.27.2",
@@ -8398,7 +8542,7 @@
      "date": "2026-11-09T13:30:44Z",
      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.27.1",
      "major": false,
-     "breaking": true
+     "breaking": false
     },
     {
      "version": "0.27.0",
@@ -8406,7 +8550,7 @@
      "date": "2026-11-07T20:45:25Z",
      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.27.0",
      "major": false,
-     "breaking": true
+     "breaking": false
     },
     {
      "version": "0.26.9",
@@ -8414,7 +8558,7 @@
      "date": "2026-11-06T16:07:57Z",
      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.26.9",
      "major": false,
-     "breaking": true
+     "breaking": false
     },
     {
      "version": "0.26.8",
@@ -8422,7 +8566,7 @@
      "date": "2026-11-05T16:23:57Z",
      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.26.8",
      "major": false,
-     "breaking": true
+     "breaking": false
     },
     {
      "version": "0.26.7",
@@ -8430,7 +8574,7 @@
      "date": "2026-11-04T04:03:01Z",
      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.26.7",
      "major": false,
-     "breaking": true
+     "breaking": false
     },
     {
      "version": "0.26.6",
@@ -8438,7 +8582,7 @@
      "date": "2026-11-02T18:22:40Z",
      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.26.6",
      "major": false,
-     "breaking": true
+     "breaking": false
     },
     {
      "version": "0.26.5",
@@ -8446,7 +8590,7 @@
      "date": "2026-11-01T03:22:50Z",
      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.26.5",
      "major": false,
-     "breaking": true
+     "breaking": false
     },
     {
      "version": "0.26.4",
@@ -8454,7 +8598,7 @@
      "date": "2026-10-29T14:29:11Z",
      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.26.4",
      "major": false,
-     "breaking": true
+     "breaking": false
     },
     {
      "version": "0.26.3",
@@ -8462,7 +8606,7 @@
      "date": "2026-10-28T14:36:14Z",
      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.26.3",
      "major": false,
-     "breaking": true
+     "breaking": false
     },
     {
      "version": "0.26.2",
@@ -8486,7 +8630,7 @@
      "date": "2026-10-21T23:20:53Z",
      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.26.0",
      "major": false,
-     "breaking": true
+     "breaking": false
     },
     {
      "version": "0.25.3",
@@ -8494,7 +8638,7 @@
      "date": "2026-10-19T06:06:37Z",
      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.25.3",
      "major": false,
-     "breaking": true
+     "breaking": false
     },
     {
      "version": "0.25.2",
@@ -8502,7 +8646,7 @@
      "date": "2026-10-15T15:41:15Z",
      "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.25.2",
      "major": false,
-     "breaking": true
+     "breaking": false
     },
     {
      "version": "0.25.1",
@@ -9449,8 +9593,8 @@
      "tag": "ai@6.0.332",
      "date": "2026-11-13T23:44:02Z",
      "url": "https://github.com/vercel/ai/releases/tag/ai%406.0.332",
-     "major": true,
-     "breaking": true
+     "major": false,
+     "breaking": false
     },
     {
      "version": "5.0.290",
@@ -9473,8 +9617,8 @@
      "tag": "ai@7.0.172",
      "date": "2026-11-13T05:57:52Z",
      "url": "https://github.com/vercel/ai/releases/tag/ai%407.0.172",
-     "major": true,
-     "breaking": true
+     "major": false,
+     "breaking": false
     }
    ]
   },
