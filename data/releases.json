@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T12:52:02.224Z",
+ "generated": "2026-11-23T15:18:47.255Z",
  "page": "https://vibecodingturkey.com/releases",
  "tools": [
   {
@@ -4898,8 +4898,136 @@
    "repo": "ggml-org/llama.cpp",
    "kind": "runtime",
    "page": "https://vibecodingturkey.com/releases/llama-cpp",
-   "median_gap_days": 0.014612268518518517,
+   "median_gap_days": 0.016568287037037038,
    "releases": [
+    {
+     "version": "b12651",
+     "tag": "b12651",
+     "date": "2026-11-23T08:52:50Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12651",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12650",
+     "tag": "b12650",
+     "date": "2026-11-23T08:36:57Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12650",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12649",
+     "tag": "b12649",
+     "date": "2026-11-23T06:55:55Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12649",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12648",
+     "tag": "b12648",
+     "date": "2026-11-23T03:32:10Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12648",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12647",
+     "tag": "b12647",
+     "date": "2026-11-23T03:18:13Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12647",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12646",
+     "tag": "b12646",
+     "date": "2026-11-23T03:00:02Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12646",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12645",
+     "tag": "b12645",
+     "date": "2026-11-23T02:32:03Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12645",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12644",
+     "tag": "b12644",
+     "date": "2026-11-23T02:15:54Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12644",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12643",
+     "tag": "b12643",
+     "date": "2026-11-23T02:01:24Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12643",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12642",
+     "tag": "b12642",
+     "date": "2026-11-23T01:47:24Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12642",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12641",
+     "tag": "b12641",
+     "date": "2026-11-23T01:34:25Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12641",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12640",
+     "tag": "b12640",
+     "date": "2026-11-23T01:19:17Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12640",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12638",
+     "tag": "b12638",
+     "date": "2026-11-23T00:49:23Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12638",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12635",
+     "tag": "b12635",
+     "date": "2026-11-22T23:55:51Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12635",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12633",
+     "tag": "b12633",
+     "date": "2026-11-22T14:53:42Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12633",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12632",
+     "tag": "b12632",
+     "date": "2026-11-22T14:37:40Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12632",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "b12631",
      "tag": "b12631",
@@ -6234,8 +6362,24 @@
    "repo": "n8n-io/n8n",
    "kind": "app",
    "page": "https://vibecodingturkey.com/releases/n8n",
-   "median_gap_days": 0.5131655092592592,
+   "median_gap_days": 0.4647974537037037,
    "releases": [
+    {
+     "version": "1.123.101",
+     "tag": "n8n@1.123.101",
+     "date": "2026-11-23T08:37:07Z",
+     "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.101",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "2.48.8",
+     "tag": "n8n@2.48.8",
+     "date": "2026-11-23T08:34:00Z",
+     "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.48.8",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "1.123.100",
      "tag": "n8n@1.123.100",
@@ -7466,8 +7610,16 @@
    "repo": "anomalyco/opencode",
    "kind": "agent",
    "page": "https://vibecodingturkey.com/releases/opencode",
-   "median_gap_days": 1.8597511574074073,
+   "median_gap_days": 1.9433912037037038,
    "releases": [
+    {
+     "version": "2.4.0",
+     "tag": "v2.4.0",
+     "date": "2026-11-23T09:22:21Z",
+     "url": "https://github.com/anomalyco/opencode/releases/tag/v2.4.0",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "2.3.2",
      "tag": "v2.3.2",
@@ -9514,8 +9666,16 @@
    "repo": "vercel/ai",
    "kind": "framework",
    "page": "https://vibecodingturkey.com/releases/vercel-ai-sdk",
-   "median_gap_days": 0.0496875,
+   "median_gap_days": 0.051423611111111114,
    "releases": [
+    {
+     "version": "6.0.336",
+     "tag": "ai@6.0.336",
+     "date": "2026-11-22T22:25:43Z",
+     "url": "https://github.com/vercel/ai/releases/tag/ai%406.0.336",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "7.0.179",
      "tag": "ai@7.0.179",

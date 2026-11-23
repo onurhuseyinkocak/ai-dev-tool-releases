@@ -574,6 +574,22 @@ litellm,LiteLLM,BerriAI/litellm,framework,1.109.1,v1.109.1,2026-11-12T02:07:01Z,
 litellm,LiteLLM,BerriAI/litellm,framework,1.108.6,v1.108.6,2026-11-12T01:12:23Z,https://github.com/BerriAI/litellm/releases/tag/v1.108.6,0,0
 litellm,LiteLLM,BerriAI/litellm,framework,1.106.9,v1.106.9,2026-11-12T01:06:15Z,https://github.com/BerriAI/litellm/releases/tag/v1.106.9,0,0
 litellm,LiteLLM,BerriAI/litellm,framework,1.106.8,v1.106.8,2026-11-11T03:23:36Z,https://github.com/BerriAI/litellm/releases/tag/v1.106.8,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12651,b12651,2026-11-23T08:52:50Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12651,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12650,b12650,2026-11-23T08:36:57Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12650,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12649,b12649,2026-11-23T06:55:55Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12649,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12648,b12648,2026-11-23T03:32:10Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12648,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12647,b12647,2026-11-23T03:18:13Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12647,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12646,b12646,2026-11-23T03:00:02Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12646,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12645,b12645,2026-11-23T02:32:03Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12645,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12644,b12644,2026-11-23T02:15:54Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12644,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12643,b12643,2026-11-23T02:01:24Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12643,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12642,b12642,2026-11-23T01:47:24Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12642,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12641,b12641,2026-11-23T01:34:25Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12641,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12640,b12640,2026-11-23T01:19:17Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12640,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12638,b12638,2026-11-23T00:49:23Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12638,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12635,b12635,2026-11-22T23:55:51Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12635,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12633,b12633,2026-11-22T14:53:42Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12633,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12632,b12632,2026-11-22T14:37:40Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12632,0,0
 llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12631,b12631,2026-11-22T09:03:19Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12631,0,0
 llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12629,b12629,2026-11-22T08:43:35Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12629,0,0
 llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12628,b12628,2026-11-22T06:53:42Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12628,0,0
@@ -731,6 +747,8 @@ mcp-typescript-sdk,MCP TypeScript SDK,modelcontextprotocol/typescript-sdk,sdk,1.
 mcp-typescript-sdk,MCP TypeScript SDK,modelcontextprotocol/typescript-sdk,sdk,1.26.0,v1.26.0,2026-02-04T19:04:29Z,https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/v1.26.0,0,0
 mcp-typescript-sdk,MCP TypeScript SDK,modelcontextprotocol/typescript-sdk,sdk,1.25.3,v1.25.3,2026-01-20T11:42:36Z,https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/v1.25.3,0,0
 mcp-typescript-sdk,MCP TypeScript SDK,modelcontextprotocol/typescript-sdk,sdk,1.25.2,v1.25.2,2026-01-07T15:33:07Z,https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/v1.25.2,0,0
+n8n,n8n,n8n-io/n8n,app,1.123.101,n8n@1.123.101,2026-11-23T08:37:07Z,https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.101,0,0
+n8n,n8n,n8n-io/n8n,app,2.48.8,n8n@2.48.8,2026-11-23T08:34:00Z,https://github.com/n8n-io/n8n/releases/tag/n8n%402.48.8,0,0
 n8n,n8n,n8n-io/n8n,app,1.123.100,n8n@1.123.100,2026-11-20T08:44:06Z,https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.100,0,0
 n8n,n8n,n8n-io/n8n,app,2.48.7,n8n@2.48.7,2026-11-20T08:36:44Z,https://github.com/n8n-io/n8n/releases/tag/n8n%402.48.7,0,0
 n8n,n8n,n8n-io/n8n,app,1.123.99,n8n@1.123.99,2026-11-19T08:38:04Z,https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.99,0,0
@@ -875,6 +893,7 @@ openai-python,OpenAI Python SDK,openai/openai-python,sdk,3.42.1,v3.42.1,2026-11-
 openai-python,OpenAI Python SDK,openai/openai-python,sdk,3.42.0,v3.42.0,2026-10-31T00:26:41Z,https://github.com/openai/openai-python/releases/tag/v3.42.0,0,0
 openai-python,OpenAI Python SDK,openai/openai-python,sdk,3.41.0,v3.41.0,2026-10-28T22:26:54Z,https://github.com/openai/openai-python/releases/tag/v3.41.0,0,0
 openai-python,OpenAI Python SDK,openai/openai-python,sdk,3.40.0,v3.40.0,2026-10-27T15:37:52Z,https://github.com/openai/openai-python/releases/tag/v3.40.0,0,0
+opencode,OpenCode,anomalyco/opencode,agent,2.4.0,v2.4.0,2026-11-23T09:22:21Z,https://github.com/anomalyco/opencode/releases/tag/v2.4.0,0,0
 opencode,OpenCode,anomalyco/opencode,agent,2.3.2,v2.3.2,2026-11-18T01:35:12Z,https://github.com/anomalyco/opencode/releases/tag/v2.3.2,0,0
 opencode,OpenCode,anomalyco/opencode,agent,2.3.1,v2.3.1,2026-11-18T00:17:57Z,https://github.com/anomalyco/opencode/releases/tag/v2.3.1,0,0
 opencode,OpenCode,anomalyco/opencode,agent,1.19.6,v1.19.6,2026-11-17T07:21:32Z,https://github.com/anomalyco/opencode/releases/tag/v1.19.6,0,0
@@ -1116,6 +1135,7 @@ transformers,Transformers,huggingface/transformers,framework,5.15.0,v5.15.0,2026
 transformers,Transformers,huggingface/transformers,framework,5.14.1,v5.14.1,2026-07-16T09:41:36Z,https://github.com/huggingface/transformers/releases/tag/v5.14.1,0,0
 transformers,Transformers,huggingface/transformers,framework,5.14.0,v5.14.0,2026-07-15T19:02:19Z,https://github.com/huggingface/transformers/releases/tag/v5.14.0,0,1
 transformers,Transformers,huggingface/transformers,framework,5.13.1,v5.13.1,2026-07-11T09:15:36Z,https://github.com/huggingface/transformers/releases/tag/v5.13.1,0,0
+vercel-ai-sdk,Vercel AI SDK,vercel/ai,framework,6.0.336,ai@6.0.336,2026-11-22T22:25:43Z,https://github.com/vercel/ai/releases/tag/ai%406.0.336,0,0
 vercel-ai-sdk,Vercel AI SDK,vercel/ai,framework,7.0.179,ai@7.0.179,2026-11-20T23:17:40Z,https://github.com/vercel/ai/releases/tag/ai%407.0.179,0,0
 vercel-ai-sdk,Vercel AI SDK,vercel/ai,framework,7.0.178,ai@7.0.178,2026-11-20T16:51:22Z,https://github.com/vercel/ai/releases/tag/ai%407.0.178,0,0
 vercel-ai-sdk,Vercel AI SDK,vercel/ai,framework,5.0.292,ai@5.0.292,2026-11-20T16:50:49Z,https://github.com/vercel/ai/releases/tag/ai%405.0.292,0,0
