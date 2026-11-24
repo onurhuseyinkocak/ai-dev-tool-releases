@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T15:18:47.255Z",
+ "generated": "2026-11-24T15:15:18.476Z",
  "page": "https://vibecodingturkey.com/releases",
  "tools": [
   {
@@ -181,6 +181,14 @@
    "median_gap_days": 1.2983854166666666,
    "releases": [
     {
+     "version": "2.13.0",
+     "tag": "v2.13.0",
+     "date": "2026-11-23T18:34:26Z",
+     "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.13.0",
+     "major": false,
+     "breaking": false
+    },
+    {
      "version": "2.12.0",
      "tag": "v2.12.0",
      "date": "2026-11-20T15:56:21Z",
@@ -350,6 +358,14 @@
    "page": "https://vibecodingturkey.com/releases/anthropic-sdk-typescript",
    "median_gap_days": 1.3118981481481482,
    "releases": [
+    {
+     "version": "1.13.0",
+     "tag": "sdk-v1.13.0",
+     "date": "2026-11-23T18:35:09Z",
+     "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v1.13.0",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "1.12.0",
      "tag": "sdk-v1.12.0",
@@ -688,8 +704,16 @@
    "repo": "anthropics/claude-agent-sdk-python",
    "kind": "sdk",
    "page": "https://vibecodingturkey.com/releases/claude-agent-sdk-python",
-   "median_gap_days": 1.0434317129629629,
+   "median_gap_days": 1.0531770833333334,
    "releases": [
+    {
+     "version": "0.2.188",
+     "tag": "v0.2.188",
+     "date": "2026-11-23T22:27:52Z",
+     "url": "https://github.com/anthropics/claude-agent-sdk-python/releases/tag/v0.2.188",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "0.2.187",
      "tag": "v0.2.187",
@@ -858,8 +882,16 @@
    "repo": "anthropics/claude-agent-sdk-typescript",
    "kind": "sdk",
    "page": "https://vibecodingturkey.com/releases/claude-agent-sdk-typescript",
-   "median_gap_days": 1.0290393518518517,
+   "median_gap_days": 1.050943287037037,
    "releases": [
+    {
+     "version": "0.3.331",
+     "tag": "v0.3.331",
+     "date": "2026-11-23T21:34:31Z",
+     "url": "https://github.com/anthropics/claude-agent-sdk-typescript/releases/tag/v0.3.331",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "0.3.330",
      "tag": "v0.3.330",
@@ -1028,8 +1060,16 @@
    "repo": "anthropics/claude-code",
    "kind": "agent",
    "page": "https://vibecodingturkey.com/releases/claude-code",
-   "median_gap_days": 1.0294849537037036,
+   "median_gap_days": 1.050943287037037,
    "releases": [
+    {
+     "version": "2.1.331",
+     "tag": "v2.1.331",
+     "date": "2026-11-23T21:34:41Z",
+     "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.331",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "2.1.330",
      "tag": "v2.1.330",
@@ -1368,8 +1408,16 @@
    "repo": "openai/codex",
    "kind": "agent",
    "page": "https://vibecodingturkey.com/releases/codex",
-   "median_gap_days": 1.5464236111111112,
+   "median_gap_days": 1.8864988425925926,
    "releases": [
+    {
+     "version": "0.172.0",
+     "tag": "rust-v0.172.0",
+     "date": "2026-11-24T00:03:55Z",
+     "url": "https://github.com/openai/codex/releases/tag/rust-v0.172.0",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "0.171.0",
      "tag": "rust-v0.171.0",
@@ -1711,6 +1759,14 @@
    "median_gap_days": 1.0168287037037036,
    "releases": [
     {
+     "version": "1.0.115",
+     "tag": "v1.0.115",
+     "date": "2026-11-24T13:03:50Z",
+     "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.115",
+     "major": false,
+     "breaking": false
+    },
+    {
      "version": "1.0.114",
      "tag": "v1.0.114",
      "date": "2026-11-18T05:59:26Z",
@@ -1878,8 +1934,16 @@
    "repo": "crewAIInc/crewAI",
    "kind": "framework",
    "page": "https://vibecodingturkey.com/releases/crewai",
-   "median_gap_days": 1.1945891203703702,
+   "median_gap_days": 1.5394849537037039,
    "releases": [
+    {
+     "version": "1.15.45",
+     "tag": "1.15.45",
+     "date": "2026-11-24T03:54:54Z",
+     "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.45",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "1.15.44",
      "tag": "1.15.44",
@@ -2682,6 +2746,22 @@
    "page": "https://vibecodingturkey.com/releases/gemini-cli",
    "median_gap_days": 6.9673032407407405,
    "releases": [
+    {
+     "version": "0.71.1",
+     "tag": "v0.71.1",
+     "date": "2026-11-24T03:50:24Z",
+     "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.71.1",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "0.71.0",
+     "tag": "v0.71.0",
+     "date": "2026-11-24T01:16:44Z",
+     "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.71.0",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "0.70.0",
      "tag": "v0.70.0",
@@ -4380,8 +4460,16 @@
    "repo": "langchain-ai/langchainjs",
    "kind": "framework",
    "page": "https://vibecodingturkey.com/releases/langchainjs",
-   "median_gap_days": 4.192847222222222,
+   "median_gap_days": 4.879137731481482,
    "releases": [
+    {
+     "version": "1.6.8",
+     "tag": "langchain@1.6.8",
+     "date": "2026-11-24T03:46:41Z",
+     "url": "https://github.com/langchain-ai/langchainjs/releases/tag/langchain%401.6.8",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "1.6.7",
      "tag": "langchain@1.6.7",
@@ -4720,8 +4808,32 @@
    "repo": "BerriAI/litellm",
    "kind": "framework",
    "page": "https://vibecodingturkey.com/releases/litellm",
-   "median_gap_days": 0.45984375,
+   "median_gap_days": 0.4964351851851852,
    "releases": [
+    {
+     "version": "1.109.4",
+     "tag": "v1.109.4",
+     "date": "2026-11-24T04:15:26Z",
+     "url": "https://github.com/BerriAI/litellm/releases/tag/v1.109.4",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "1.110.3",
+     "tag": "v1.110.3",
+     "date": "2026-11-24T04:11:03Z",
+     "url": "https://github.com/BerriAI/litellm/releases/tag/v1.110.3",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "1.108.16",
+     "tag": "v1.108.16",
+     "date": "2026-11-23T22:12:26Z",
+     "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.16",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "1.108.15",
      "tag": "v1.108.15",
@@ -4898,8 +5010,112 @@
    "repo": "ggml-org/llama.cpp",
    "kind": "runtime",
    "page": "https://vibecodingturkey.com/releases/llama-cpp",
-   "median_gap_days": 0.016568287037037038,
+   "median_gap_days": 0.018130787037037036,
    "releases": [
+    {
+     "version": "b12676",
+     "tag": "b12676",
+     "date": "2026-11-24T13:24:35Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12676",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12675",
+     "tag": "b12675",
+     "date": "2026-11-24T09:55:33Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12675",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12674",
+     "tag": "b12674",
+     "date": "2026-11-24T08:25:32Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12674",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12671",
+     "tag": "b12671",
+     "date": "2026-11-24T07:02:04Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12671",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12670",
+     "tag": "b12670",
+     "date": "2026-11-24T06:13:13Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12670",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12669",
+     "tag": "b12669",
+     "date": "2026-11-24T02:38:41Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12669",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12668",
+     "tag": "b12668",
+     "date": "2026-11-24T02:14:27Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12668",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12667",
+     "tag": "b12667",
+     "date": "2026-11-24T01:52:17Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12667",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12662",
+     "tag": "b12662",
+     "date": "2026-11-24T01:34:31Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12662",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12659",
+     "tag": "b12659",
+     "date": "2026-11-24T01:13:17Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12659",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12658",
+     "tag": "b12658",
+     "date": "2026-11-24T00:56:59Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12658",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12657",
+     "tag": "b12657",
+     "date": "2026-11-24T00:38:04Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12657",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12655",
+     "tag": "b12655",
+     "date": "2026-11-23T23:18:35Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12655",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "b12651",
      "tag": "b12651",
@@ -5486,8 +5702,16 @@
    "repo": "lobehub/lobehub",
    "kind": "app",
    "page": "https://vibecodingturkey.com/releases/lobehub",
-   "median_gap_days": 5.728975694444444,
+   "median_gap_days": 5.578020833333333,
    "releases": [
+    {
+     "version": "2.3.6",
+     "tag": "v2.3.6",
+     "date": "2026-11-24T12:54:17Z",
+     "url": "https://github.com/lobehub/lobehub/releases/tag/v2.3.6",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "2.3.5",
      "tag": "v2.3.5",
@@ -6362,8 +6586,16 @@
    "repo": "n8n-io/n8n",
    "kind": "app",
    "page": "https://vibecodingturkey.com/releases/n8n",
-   "median_gap_days": 0.4647974537037037,
+   "median_gap_days": 0.16722222222222222,
    "releases": [
+    {
+     "version": "2.49.5",
+     "tag": "n8n@2.49.5",
+     "date": "2026-11-23T15:25:29Z",
+     "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.49.5",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "1.123.101",
      "tag": "n8n@1.123.101",
@@ -6550,6 +6782,14 @@
    "page": "https://vibecodingturkey.com/releases/ollama",
    "median_gap_days": 1.9281365740740741,
    "releases": [
+    {
+     "version": "0.40.18",
+     "tag": "v0.40.18",
+     "date": "2026-11-24T04:18:13Z",
+     "url": "https://github.com/ollama/ollama/releases/tag/v0.40.18",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "0.40.17",
      "tag": "v0.40.17",
@@ -6930,8 +7170,16 @@
    "repo": "openai/openai-agents-python",
    "kind": "sdk",
    "page": "https://vibecodingturkey.com/releases/openai-agents-python",
-   "median_gap_days": 2.9950925925925924,
+   "median_gap_days": 3.6203356481481483,
    "releases": [
+    {
+     "version": "0.26.0",
+     "tag": "v0.26.0",
+     "date": "2026-11-24T03:15:47Z",
+     "url": "https://github.com/openai/openai-agents-python/releases/tag/v0.26.0",
+     "major": false,
+     "breaking": true
+    },
     {
      "version": "0.25.0",
      "tag": "v0.25.0",
@@ -7103,6 +7351,14 @@
    "median_gap_days": 0.843113425925926,
    "releases": [
     {
+     "version": "1.56.1",
+     "tag": "v1.56.1",
+     "date": "2026-11-23T21:48:23Z",
+     "url": "https://github.com/openai/openai-cli/releases/tag/v1.56.1",
+     "major": false,
+     "breaking": false
+    },
+    {
      "version": "1.56.0",
      "tag": "v1.56.0",
      "date": "2026-11-21T00:14:14Z",
@@ -7273,6 +7529,14 @@
    "median_gap_days": 0.7872048611111111,
    "releases": [
     {
+     "version": "7.63.0",
+     "tag": "v7.63.0",
+     "date": "2026-11-23T19:00:04Z",
+     "url": "https://github.com/openai/openai-node/releases/tag/v7.63.0",
+     "major": false,
+     "breaking": false
+    },
+    {
      "version": "7.62.0",
      "tag": "v7.62.0",
      "date": "2026-11-20T01:28:46Z",
@@ -7440,8 +7704,16 @@
    "repo": "openai/openai-python",
    "kind": "sdk",
    "page": "https://vibecodingturkey.com/releases/openai-python",
-   "median_gap_days": 0.8942997685185186,
+   "median_gap_days": 1.006394675925926,
    "releases": [
+    {
+     "version": "3.58.0",
+     "tag": "v3.58.0",
+     "date": "2026-11-23T19:00:21Z",
+     "url": "https://github.com/openai/openai-python/releases/tag/v3.58.0",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "3.57.0",
      "tag": "v3.57.0",
@@ -7610,8 +7882,16 @@
    "repo": "anomalyco/opencode",
    "kind": "agent",
    "page": "https://vibecodingturkey.com/releases/opencode",
-   "median_gap_days": 1.9433912037037038,
+   "median_gap_days": 0.9208969907407407,
    "releases": [
+    {
+     "version": "2.4.1",
+     "tag": "v2.4.1",
+     "date": "2026-11-23T15:57:40Z",
+     "url": "https://github.com/anomalyco/opencode/releases/tag/v2.4.1",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "2.4.0",
      "tag": "v2.4.0",
@@ -7790,6 +8070,22 @@
    "page": "https://vibecodingturkey.com/releases/openhands",
    "median_gap_days": 1.3639988425925926,
    "releases": [
+    {
+     "version": "1.45.0",
+     "tag": "v1.45.0",
+     "date": "2026-11-24T09:13:54Z",
+     "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.45.0",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "1.44.0",
+     "tag": "v1.44.0",
+     "date": "2026-11-23T15:29:47Z",
+     "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.44.0",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "1.43.0",
      "tag": "v1.43.0",
@@ -8470,6 +8766,14 @@
    "page": "https://vibecodingturkey.com/releases/pydantic-ai",
    "median_gap_days": 1.657488425925926,
    "releases": [
+    {
+     "version": "2.73.0",
+     "tag": "v2.73.0",
+     "date": "2026-11-24T03:53:12Z",
+     "url": "https://github.com/pydantic/pydantic-ai/releases/tag/v2.73.0",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "2.71.0",
      "tag": "v2.71.0",
@@ -9666,8 +9970,24 @@
    "repo": "vercel/ai",
    "kind": "framework",
    "page": "https://vibecodingturkey.com/releases/vercel-ai-sdk",
-   "median_gap_days": 0.051423611111111114,
+   "median_gap_days": 0.18859953703703702,
    "releases": [
+    {
+     "version": "7.0.181",
+     "tag": "ai@7.0.181",
+     "date": "2026-11-23T21:09:00Z",
+     "url": "https://github.com/vercel/ai/releases/tag/ai%407.0.181",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "7.0.180",
+     "tag": "ai@7.0.180",
+     "date": "2026-11-23T16:37:25Z",
+     "url": "https://github.com/vercel/ai/releases/tag/ai%407.0.180",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "6.0.336",
      "tag": "ai@6.0.336",
