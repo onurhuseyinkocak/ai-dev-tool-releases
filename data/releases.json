@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T14:25:34.601Z",
+ "generated": "2026-11-27T14:19:39.644Z",
  "page": "https://vibecodingturkey.com/releases",
  "tools": [
   {
@@ -1995,6 +1995,14 @@
    "median_gap_days": 3.2420023148148145,
    "releases": [
     {
+     "version": "1.0.9",
+     "tag": "1.0.9",
+     "date": "2026-11-26T22:45:43Z",
+     "url": "https://github.com/browser-use/browser-use/releases/tag/1.0.9",
+     "major": false,
+     "breaking": false
+    },
+    {
      "version": "1.0.8",
      "tag": "1.0.8",
      "date": "2026-11-22T03:30:41Z",
@@ -3589,6 +3597,14 @@
    "median_gap_days": 6.131111111111111,
    "releases": [
     {
+     "version": "1.6.11",
+     "tag": "v1.6.11",
+     "date": "2026-11-26T17:05:51Z",
+     "url": "https://github.com/topoteretes/cognee/releases/tag/v1.6.11",
+     "major": false,
+     "breaking": false
+    },
+    {
      "version": "1.6.10",
      "tag": "v1.6.10",
      "date": "2026-11-18T21:42:57Z",
@@ -3926,8 +3942,24 @@
    "repo": "upstash/context7",
    "kind": "mcp",
    "page": "https://vibecodingturkey.com/releases/context7",
-   "median_gap_days": 2.4637962962962963,
+   "median_gap_days": 2.079340277777778,
    "releases": [
+    {
+     "version": "4.9.1",
+     "tag": "@upstash/context7-mcp@4.9.1",
+     "date": "2026-11-27T08:36:51Z",
+     "url": "https://github.com/upstash/context7/releases/tag/%40upstash/context7-mcp%404.9.1",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "4.9.0",
+     "tag": "@upstash/context7-mcp@4.9.0",
+     "date": "2026-11-26T15:39:26Z",
+     "url": "https://github.com/upstash/context7/releases/tag/%40upstash/context7-mcp%404.9.0",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "4.8.0",
      "tag": "@upstash/context7-mcp@4.8.0",
@@ -4268,6 +4300,14 @@
    "page": "https://vibecodingturkey.com/releases/copilot-cli",
    "median_gap_days": 1.0407002314814815,
    "releases": [
+    {
+     "version": "1.0.117",
+     "tag": "v1.0.117",
+     "date": "2026-11-27T13:04:12Z",
+     "url": "https://github.com/github/copilot-cli/releases/tag/v1.0.117",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "1.0.116",
      "tag": "v1.0.116",
@@ -4972,6 +5012,22 @@
    "page": "https://vibecodingturkey.com/releases/crush",
    "median_gap_days": 5.060092592592593,
    "releases": [
+    {
+     "version": "0.104.0",
+     "tag": "v0.104.0",
+     "date": "2026-11-27T13:39:18Z",
+     "url": "https://github.com/charmbracelet/crush/releases/tag/v0.104.0",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "0.103.0",
+     "tag": "v0.103.0",
+     "date": "2026-11-26T15:56:38Z",
+     "url": "https://github.com/charmbracelet/crush/releases/tag/v0.103.0",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "0.102.0",
      "tag": "v0.102.0",
@@ -6026,6 +6082,14 @@
    "page": "https://vibecodingturkey.com/releases/e2b",
    "median_gap_days": 2.3692881944444446,
    "releases": [
+    {
+     "version": "2.66.0",
+     "tag": "e2b@2.66.0",
+     "date": "2026-11-26T16:28:24Z",
+     "url": "https://github.com/e2b-dev/E2B/releases/tag/e2b%402.66.0",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "2.65.0",
      "tag": "e2b@2.65.0",
@@ -9597,6 +9661,14 @@
    "median_gap_days": 7.0106018518518525,
    "releases": [
     {
+     "version": "2.5.0",
+     "tag": "v2.5.0",
+     "date": "2026-11-26T15:38:07Z",
+     "url": "https://github.com/huggingface/huggingface_hub/releases/tag/v2.5.0",
+     "major": false,
+     "breaking": false
+    },
+    {
      "version": "2.4.0",
      "tag": "v2.4.0",
      "date": "2026-10-29T14:56:07Z",
@@ -9896,6 +9968,14 @@
    "page": "https://vibecodingturkey.com/releases/instructor",
    "median_gap_days": 12.551116898148148,
    "releases": [
+    {
+     "version": "1.18.0",
+     "tag": "v1.18.0",
+     "date": "2026-11-26T21:02:33Z",
+     "url": "https://github.com/567-labs/instructor/releases/tag/v1.18.0",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "1.17.0",
      "tag": "v1.17.0",
@@ -10404,8 +10484,16 @@
    "repo": "Kilo-Org/kilocode",
    "kind": "agent",
    "page": "https://vibecodingturkey.com/releases/kilo-code",
-   "median_gap_days": 2.639733796296296,
+   "median_gap_days": 3.0868402777777777,
    "releases": [
+    {
+     "version": "7.8.40",
+     "tag": "v7.8.40",
+     "date": "2026-11-27T09:22:50Z",
+     "url": "https://github.com/Kilo-Org/kilocode/releases/tag/v7.8.40",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "7.8.32",
      "tag": "v7.8.32",
@@ -11435,6 +11523,14 @@
    "median_gap_days": 1.0445428240740742,
    "releases": [
     {
+     "version": "4.88.0",
+     "tag": "v4.88.0",
+     "date": "2026-11-26T16:50:41Z",
+     "url": "https://github.com/langfuse/langfuse/releases/tag/v4.88.0",
+     "major": false,
+     "breaking": false
+    },
+    {
      "version": "4.87.0",
      "tag": "v4.87.0",
      "date": "2026-11-26T11:22:05Z",
@@ -12120,8 +12216,24 @@
    "repo": "BerriAI/litellm",
    "kind": "framework",
    "page": "https://vibecodingturkey.com/releases/litellm",
-   "median_gap_days": 0.11614004629629629,
+   "median_gap_days": 0.09249421296296297,
    "releases": [
+    {
+     "version": "1.108.19",
+     "tag": "v1.108.19",
+     "date": "2026-11-26T19:05:42Z",
+     "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.19",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "1.108.18",
+     "tag": "v1.108.18",
+     "date": "2026-11-26T17:06:13Z",
+     "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.18",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "1.111.0",
      "tag": "v1.111.0",
@@ -12524,8 +12636,168 @@
    "repo": "ggml-org/llama.cpp",
    "kind": "runtime",
    "page": "https://vibecodingturkey.com/releases/llama-cpp",
-   "median_gap_days": 0.03315393518518518,
+   "median_gap_days": 0.021892361111111112,
    "releases": [
+    {
+     "version": "b12815",
+     "tag": "b12815",
+     "date": "2026-11-27T14:09:06Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12815",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12814",
+     "tag": "b12814",
+     "date": "2026-11-27T13:27:51Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12814",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12812",
+     "tag": "b12812",
+     "date": "2026-11-27T13:06:01Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12812",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12811",
+     "tag": "b12811",
+     "date": "2026-11-27T11:14:55Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12811",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12810",
+     "tag": "b12810",
+     "date": "2026-11-27T08:11:21Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12810",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12809",
+     "tag": "b12809",
+     "date": "2026-11-27T07:14:49Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12809",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12808",
+     "tag": "b12808",
+     "date": "2026-11-27T06:02:01Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12808",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12807",
+     "tag": "b12807",
+     "date": "2026-11-27T05:42:54Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12807",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12806",
+     "tag": "b12806",
+     "date": "2026-11-27T05:22:40Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12806",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12805",
+     "tag": "b12805",
+     "date": "2026-11-27T04:52:28Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12805",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12804",
+     "tag": "b12804",
+     "date": "2026-11-27T04:19:37Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12804",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12803",
+     "tag": "b12803",
+     "date": "2026-11-27T02:05:21Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12803",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12801",
+     "tag": "b12801",
+     "date": "2026-11-27T01:51:44Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12801",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12800",
+     "tag": "b12800",
+     "date": "2026-11-26T23:08:22Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12800",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12798",
+     "tag": "b12798",
+     "date": "2026-11-26T22:48:45Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12798",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12793",
+     "tag": "b12793",
+     "date": "2026-11-26T22:30:32Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12793",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12791",
+     "tag": "b12791",
+     "date": "2026-11-26T22:10:09Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12791",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12785",
+     "tag": "b12785",
+     "date": "2026-11-26T21:31:09Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12785",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12784",
+     "tag": "b12784",
+     "date": "2026-11-26T21:09:03Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12784",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12782",
+     "tag": "b12782",
+     "date": "2026-11-26T20:47:21Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12782",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "b12777",
      "tag": "b12777",
@@ -15708,8 +15980,24 @@
    "repo": "modelcontextprotocol/inspector",
    "kind": "mcp",
    "page": "https://vibecodingturkey.com/releases/mcp-inspector",
-   "median_gap_days": 6.917650462962963,
+   "median_gap_days": 6.932025462962963,
    "releases": [
+    {
+     "version": "2.17.0",
+     "tag": "2.17.0",
+     "date": "2026-11-27T09:36:58Z",
+     "url": "https://github.com/modelcontextprotocol/inspector/releases/tag/2.17.0",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "1.0.7",
+     "tag": "1.0.7",
+     "date": "2026-11-27T07:18:52Z",
+     "url": "https://github.com/modelcontextprotocol/inspector/releases/tag/1.0.7",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "2.16.0",
      "tag": "2.16.0",
@@ -16218,8 +16506,16 @@
    "repo": "modelcontextprotocol/rust-sdk",
    "kind": "mcp",
    "page": "https://vibecodingturkey.com/releases/mcp-rust-sdk",
-   "median_gap_days": 5.583564814814816,
+   "median_gap_days": 6.131956018518519,
    "releases": [
+    {
+     "version": "3.12.0",
+     "tag": "rmcp-v3.12.0",
+     "date": "2026-11-26T14:58:17Z",
+     "url": "https://github.com/modelcontextprotocol/rust-sdk/releases/tag/rmcp-v3.12.0",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "3.11.0",
      "tag": "rmcp-v3.11.0",
@@ -16388,8 +16684,16 @@
    "repo": "modelcontextprotocol/servers",
    "kind": "mcp",
    "page": "https://vibecodingturkey.com/releases/mcp-servers",
-   "median_gap_days": 6.711822916666667,
+   "median_gap_days": 7.021851851851852,
    "releases": [
+    {
+     "version": "2.6.0",
+     "tag": "v2.6.0",
+     "date": "2026-11-27T09:51:35Z",
+     "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v2.6.0",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "2.5.0",
      "tag": "v2.5.0",
@@ -17572,8 +17876,16 @@
    "repo": "n8n-io/n8n",
    "kind": "app",
    "page": "https://vibecodingturkey.com/releases/n8n",
-   "median_gap_days": 0.16722222222222222,
+   "median_gap_days": 0.6179745370370371,
    "releases": [
+    {
+     "version": "2.49.8",
+     "tag": "n8n@2.49.8",
+     "date": "2026-11-27T08:18:25Z",
+     "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.49.8",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "1.123.102",
      "tag": "n8n@1.123.102",
@@ -20983,6 +21295,22 @@
    "median_gap_days": 0.4916550925925926,
    "releases": [
     {
+     "version": "2.3.7",
+     "tag": "2.3.7",
+     "date": "2026-11-27T13:04:02Z",
+     "url": "https://github.com/comet-ml/opik/releases/tag/2.3.7",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "2.3.6",
+     "tag": "2.3.6",
+     "date": "2026-11-26T17:04:19Z",
+     "url": "https://github.com/comet-ml/opik/releases/tag/2.3.6",
+     "major": false,
+     "breaking": false
+    },
+    {
      "version": "2.3.5",
      "tag": "2.3.5",
      "date": "2026-11-26T12:58:14Z",
@@ -22364,8 +22692,16 @@
    "repo": "pydantic/pydantic-ai",
    "kind": "framework",
    "page": "https://vibecodingturkey.com/releases/pydantic-ai",
-   "median_gap_days": 1.0883680555555557,
+   "median_gap_days": 1.129693287037037,
    "releases": [
+    {
+     "version": "2.76.0",
+     "tag": "v2.76.0",
+     "date": "2026-11-26T23:49:06Z",
+     "url": "https://github.com/pydantic/pydantic-ai/releases/tag/v2.76.0",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "2.75.0",
      "tag": "v2.75.0",
@@ -22736,8 +23072,16 @@
    "repo": "QwenLM/qwen-code",
    "kind": "agent",
    "page": "https://vibecodingturkey.com/releases/qwen-code",
-   "median_gap_days": 1.9369733796296296,
+   "median_gap_days": 1.6615104166666668,
    "releases": [
+    {
+     "version": "0.28.7",
+     "tag": "v0.28.7",
+     "date": "2026-11-26T18:04:26Z",
+     "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.28.7",
+     "major": false,
+     "breaking": true
+    },
     {
      "version": "0.28.6",
      "tag": "v0.28.6",
