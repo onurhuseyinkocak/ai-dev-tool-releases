@@ -1435,6 +1435,7 @@ lightrag,LightRAG,HKUDS/LightRAG,framework,1.4.9.11,v1.4.9.11,2026-01-15T18:27:1
 lightrag,LightRAG,HKUDS/LightRAG,framework,1.4.9.10,v1.4.9.10,2025-12-23T01:10:56Z,https://github.com/HKUDS/LightRAG/releases/tag/v1.4.9.10,0,0
 lightrag,LightRAG,HKUDS/LightRAG,framework,1.4.9.9,v1.4.9.9,2025-12-22T17:49:40Z,https://github.com/HKUDS/LightRAG/releases/tag/v1.4.9.9,0,1
 lightrag,LightRAG,HKUDS/LightRAG,framework,1.4.9.8,v1.4.9.8,2025-11-06T13:51:36Z,https://github.com/HKUDS/LightRAG/releases/tag/v1.4.9.8,0,0
+litellm,LiteLLM,BerriAI/litellm,framework,1.108.20,v1.108.20,2026-11-27T21:37:18Z,https://github.com/BerriAI/litellm/releases/tag/v1.108.20,0,0
 litellm,LiteLLM,BerriAI/litellm,framework,1.108.19,v1.108.19,2026-11-26T19:05:42Z,https://github.com/BerriAI/litellm/releases/tag/v1.108.19,0,0
 litellm,LiteLLM,BerriAI/litellm,framework,1.108.18,v1.108.18,2026-11-26T17:06:13Z,https://github.com/BerriAI/litellm/releases/tag/v1.108.18,0,0
 litellm,LiteLLM,BerriAI/litellm,framework,1.111.0,v1.111.0,2026-11-25T01:42:50Z,https://github.com/BerriAI/litellm/releases/tag/v1.111.0,0,0
@@ -1485,6 +1486,17 @@ litgpt,LitGPT,Lightning-AI/litgpt,train,0.4.12,v0.4.12,2024-09-11T19:43:17Z,http
 litgpt,LitGPT,Lightning-AI/litgpt,train,0.4.11,v0.4.11,2024-08-23T17:42:08Z,https://github.com/Lightning-AI/litgpt/releases/tag/v0.4.11,0,0
 litgpt,LitGPT,Lightning-AI/litgpt,train,0.4.10,v0.4.10,2024-08-14T01:39:16Z,https://github.com/Lightning-AI/litgpt/releases/tag/v0.4.10,0,0
 litgpt,LitGPT,Lightning-AI/litgpt,train,0.4.9,v0.4.9,2024-08-08T15:43:57Z,https://github.com/Lightning-AI/litgpt/releases/tag/v0.4.9,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12831,b12831,2026-11-28T13:33:06Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12831,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12830,b12830,2026-11-28T12:59:31Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12830,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12828,b12828,2026-11-28T12:02:31Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12828,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12827,b12827,2026-11-28T11:32:11Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12827,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12823,b12823,2026-11-28T01:24:25Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12823,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12822,b12822,2026-11-28T01:08:40Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12822,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12821,b12821,2026-11-28T00:54:00Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12821,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12820,b12820,2026-11-28T00:39:41Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12820,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12819,b12819,2026-11-28T00:21:16Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12819,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12818,b12818,2026-11-27T20:43:59Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12818,0,0
+llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12816,b12816,2026-11-27T17:02:01Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12816,0,0
 llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12815,b12815,2026-11-27T14:09:06Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12815,0,0
 llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12814,b12814,2026-11-27T13:27:51Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12814,0,0
 llama-cpp,llama.cpp,ggml-org/llama.cpp,runtime,b12812,b12812,2026-11-27T13:06:01Z,https://github.com/ggml-org/llama.cpp/releases/tag/b12812,0,0
@@ -2166,6 +2178,7 @@ nemo-guardrails,NeMo Guardrails,NVIDIA-NeMo/Guardrails,framework,0.11.1,v0.11.1,
 nemo-guardrails,NeMo Guardrails,NVIDIA-NeMo/Guardrails,framework,0.11.0,v0.11.0,2024-11-19T13:54:31Z,https://github.com/NVIDIA-NeMo/Guardrails/releases/tag/v0.11.0,0,0
 nemo-guardrails,NeMo Guardrails,NVIDIA-NeMo/Guardrails,framework,0.10.1,v0.10.1,2024-10-02T18:38:56Z,https://github.com/NVIDIA-NeMo/Guardrails/releases/tag/v0.10.1,0,0
 nemo-guardrails,NeMo Guardrails,NVIDIA-NeMo/Guardrails,framework,0.10.0,v0.10.0,2024-09-27T21:47:53Z,https://github.com/NVIDIA-NeMo/Guardrails/releases/tag/v0.10.0,0,0
+ollama,Ollama,ollama/ollama,runtime,0.40.19,v0.40.19,2026-11-26T17:52:02Z,https://github.com/ollama/ollama/releases/tag/v0.40.19,0,0
 ollama,Ollama,ollama/ollama,runtime,0.40.18,v0.40.18,2026-11-24T04:18:13Z,https://github.com/ollama/ollama/releases/tag/v0.40.18,0,0
 ollama,Ollama,ollama/ollama,runtime,0.40.17,v0.40.17,2026-11-10T22:25:00Z,https://github.com/ollama/ollama/releases/tag/v0.40.17,0,0
 ollama,Ollama,ollama/ollama,runtime,0.40.16,v0.40.16,2026-11-09T18:21:19Z,https://github.com/ollama/ollama/releases/tag/v0.40.16,0,0
@@ -2207,6 +2220,7 @@ ollama-python,Ollama Python library,ollama/ollama-python,sdk,0.4.2,v0.4.2,2024-1
 ollama-python,Ollama Python library,ollama/ollama-python,sdk,0.4.1,v0.4.1,2024-11-24T02:30:40Z,https://github.com/ollama/ollama-python/releases/tag/v0.4.1,0,0
 ollama-python,Ollama Python library,ollama/ollama-python,sdk,0.4.0,v0.4.0,2024-11-21T23:22:27Z,https://github.com/ollama/ollama-python/releases/tag/v0.4.0,0,0
 ollama-python,Ollama Python library,ollama/ollama-python,sdk,0.3.3,v0.3.3,2024-09-09T17:22:54Z,https://github.com/ollama/ollama-python/releases/tag/v0.3.3,0,0
+open-interpreter,Open Interpreter,openinterpreter/openinterpreter,agent,0.0.65,rust-v0.0.65,2026-11-28T07:39:09Z,https://github.com/openinterpreter/openinterpreter/releases/tag/rust-v0.0.65,0,0
 open-interpreter,Open Interpreter,openinterpreter/openinterpreter,agent,0.0.64,rust-v0.0.64,2026-11-26T13:29:09Z,https://github.com/openinterpreter/openinterpreter/releases/tag/rust-v0.0.64,0,0
 open-interpreter,Open Interpreter,openinterpreter/openinterpreter,agent,0.0.61,rust-v0.0.61,2026-11-11T04:39:22Z,https://github.com/openinterpreter/openinterpreter/releases/tag/rust-v0.0.61,0,0
 open-interpreter,Open Interpreter,openinterpreter/openinterpreter,agent,0.0.60,rust-v0.0.60,2026-11-09T03:21:08Z,https://github.com/openinterpreter/openinterpreter/releases/tag/rust-v0.0.60,0,0
@@ -2672,6 +2686,7 @@ promptfoo,promptfoo,promptfoo/promptfoo,eval,0.121.14,0.121.14,2026-06-02T13:49:
 promptfoo,promptfoo,promptfoo/promptfoo,eval,0.121.13,0.121.13,2026-05-28T23:50:03Z,https://github.com/promptfoo/promptfoo/releases/tag/0.121.13,0,0
 promptfoo,promptfoo,promptfoo/promptfoo,eval,0.121.12,0.121.12,2026-05-21T06:17:26Z,https://github.com/promptfoo/promptfoo/releases/tag/0.121.12,0,0
 promptfoo,promptfoo,promptfoo/promptfoo,eval,0.121.11,0.121.11,2026-05-08T02:16:02Z,https://github.com/promptfoo/promptfoo/releases/tag/0.121.11,0,0
+pydantic-ai,Pydantic AI,pydantic/pydantic-ai,framework,2.77.0,v2.77.0,2026-11-27T23:32:31Z,https://github.com/pydantic/pydantic-ai/releases/tag/v2.77.0,0,0
 pydantic-ai,Pydantic AI,pydantic/pydantic-ai,framework,2.76.0,v2.76.0,2026-11-26T23:49:06Z,https://github.com/pydantic/pydantic-ai/releases/tag/v2.76.0,0,0
 pydantic-ai,Pydantic AI,pydantic/pydantic-ai,framework,2.75.0,v2.75.0,2026-11-25T18:21:00Z,https://github.com/pydantic/pydantic-ai/releases/tag/v2.75.0,0,0
 pydantic-ai,Pydantic AI,pydantic/pydantic-ai,framework,2.74.0,v2.74.0,2026-11-24T23:22:14Z,https://github.com/pydantic/pydantic-ai/releases/tag/v2.74.0,0,0
@@ -2717,6 +2732,7 @@ qdrant,Qdrant,qdrant/qdrant,data,1.15.5,v1.15.5,2025-09-30T12:23:50Z,https://git
 qdrant,Qdrant,qdrant/qdrant,data,1.15.4,v1.15.4,2025-08-27T11:24:04Z,https://github.com/qdrant/qdrant/releases/tag/v1.15.4,0,0
 qdrant,Qdrant,qdrant/qdrant,data,1.15.3,v1.15.3,2025-08-14T16:30:06Z,https://github.com/qdrant/qdrant/releases/tag/v1.15.3,0,0
 qdrant,Qdrant,qdrant/qdrant,data,1.15.2,v1.15.2,2025-08-11T18:04:43Z,https://github.com/qdrant/qdrant/releases/tag/v1.15.2,0,0
+qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.29.0,v0.29.0,2026-11-28T10:00:05Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.29.0,0,0
 qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.28.7,v0.28.7,2026-11-26T18:04:26Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.28.7,0,1
 qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.28.6,v0.28.6,2026-11-26T05:51:04Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.28.6,0,1
 qwen-code,Qwen Code,QwenLM/qwen-code,agent,0.28.4,v0.28.4,2026-11-22T12:04:21Z,https://github.com/QwenLM/qwen-code/releases/tag/v0.28.4,0,0
@@ -2878,6 +2894,7 @@ smolagents,smolagents,huggingface/smolagents,framework,1.14.0,v1.14.0,2025-04-18
 smolagents,smolagents,huggingface/smolagents,framework,1.13.0,v1.13.0,2025-04-02T15:10:31Z,https://github.com/huggingface/smolagents/releases/tag/v1.13.0,0,0
 smolagents,smolagents,huggingface/smolagents,framework,1.12.0,v1.12.0,2025-03-20T09:37:38Z,https://github.com/huggingface/smolagents/releases/tag/v1.12.0,0,0
 smolagents,smolagents,huggingface/smolagents,framework,1.11.0,v1.11.0,2025-03-14T19:55:16Z,https://github.com/huggingface/smolagents/releases/tag/v1.11.0,0,0
+strands-agents,Strands Agents (Python),strands-agents/harness-sdk,framework,1.68.0,python/v1.68.0,2026-11-27T23:37:01Z,https://github.com/strands-agents/harness-sdk/releases/tag/python/v1.68.0,0,0
 strands-agents,Strands Agents (Python),strands-agents/harness-sdk,framework,1.67.0,python/v1.67.0,2026-11-25T16:26:40Z,https://github.com/strands-agents/harness-sdk/releases/tag/python/v1.67.0,0,0
 strands-agents,Strands Agents (Python),strands-agents/harness-sdk,framework,1.66.0,python/v1.66.0,2026-11-23T17:42:10Z,https://github.com/strands-agents/harness-sdk/releases/tag/python/v1.66.0,0,0
 strands-agents,Strands Agents (Python),strands-agents/harness-sdk,framework,1.65.0,python/v1.65.0,2026-11-13T18:45:37Z,https://github.com/strands-agents/harness-sdk/releases/tag/python/v1.65.0,0,0
@@ -3041,6 +3058,8 @@ twinny,twinny,twinnydotdev/twinny,editor,3.11.0,v3.11.0,2024-04-08T19:35:56Z,htt
 twinny,twinny,twinnydotdev/twinny,editor,3.10.8,v3.10.8,2024-04-01T20:56:21Z,https://github.com/twinnydotdev/twinny/releases/tag/v3.10.8,0,0
 twinny,twinny,twinnydotdev/twinny,editor,3.10.0,v3.10.0,2024-03-28T13:08:46Z,https://github.com/twinnydotdev/twinny/releases/tag/v3.10.0,0,0
 twinny,twinny,twinnydotdev/twinny,editor,3.8.0,v3.8.0,2024-03-19T13:28:13Z,https://github.com/twinnydotdev/twinny/releases/tag/v3.8.0,0,0
+vercel-ai-sdk,Vercel AI SDK,vercel/ai,framework,6.0.339,ai@6.0.339,2026-11-27T23:25:36Z,https://github.com/vercel/ai/releases/tag/ai%406.0.339,0,0
+vercel-ai-sdk,Vercel AI SDK,vercel/ai,framework,7.0.184,ai@7.0.184,2026-11-27T23:25:22Z,https://github.com/vercel/ai/releases/tag/ai%407.0.184,0,0
 vercel-ai-sdk,Vercel AI SDK,vercel/ai,framework,7.0.183,ai@7.0.183,2026-11-26T04:33:47Z,https://github.com/vercel/ai/releases/tag/ai%407.0.183,0,0
 vercel-ai-sdk,Vercel AI SDK,vercel/ai,framework,5.0.294,ai@5.0.294,2026-11-26T04:29:41Z,https://github.com/vercel/ai/releases/tag/ai%405.0.294,0,0
 vercel-ai-sdk,Vercel AI SDK,vercel/ai,framework,6.0.338,ai@6.0.338,2026-11-26T04:29:15Z,https://github.com/vercel/ai/releases/tag/ai%406.0.338,0,0

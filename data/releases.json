@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T14:19:39.644Z",
+ "generated": "2026-11-28T13:35:08.375Z",
  "page": "https://vibecodingturkey.com/releases",
  "tools": [
   {
@@ -12219,6 +12219,14 @@
    "median_gap_days": 0.09249421296296297,
    "releases": [
     {
+     "version": "1.108.20",
+     "tag": "v1.108.20",
+     "date": "2026-11-27T21:37:18Z",
+     "url": "https://github.com/BerriAI/litellm/releases/tag/v1.108.20",
+     "major": false,
+     "breaking": false
+    },
+    {
      "version": "1.108.19",
      "tag": "v1.108.19",
      "date": "2026-11-26T19:05:42Z",
@@ -12636,8 +12644,96 @@
    "repo": "ggml-org/llama.cpp",
    "kind": "runtime",
    "page": "https://vibecodingturkey.com/releases/llama-cpp",
-   "median_gap_days": 0.021892361111111112,
+   "median_gap_days": 0.025983796296296297,
    "releases": [
+    {
+     "version": "b12831",
+     "tag": "b12831",
+     "date": "2026-11-28T13:33:06Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12831",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12830",
+     "tag": "b12830",
+     "date": "2026-11-28T12:59:31Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12830",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12828",
+     "tag": "b12828",
+     "date": "2026-11-28T12:02:31Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12828",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12827",
+     "tag": "b12827",
+     "date": "2026-11-28T11:32:11Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12827",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12823",
+     "tag": "b12823",
+     "date": "2026-11-28T01:24:25Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12823",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12822",
+     "tag": "b12822",
+     "date": "2026-11-28T01:08:40Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12822",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12821",
+     "tag": "b12821",
+     "date": "2026-11-28T00:54:00Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12821",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12820",
+     "tag": "b12820",
+     "date": "2026-11-28T00:39:41Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12820",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12819",
+     "tag": "b12819",
+     "date": "2026-11-28T00:21:16Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12819",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12818",
+     "tag": "b12818",
+     "date": "2026-11-27T20:43:59Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12818",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "b12816",
+     "tag": "b12816",
+     "date": "2026-11-27T17:02:01Z",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b12816",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "b12815",
      "tag": "b12815",
@@ -18397,6 +18493,14 @@
    "median_gap_days": 1.9281365740740741,
    "releases": [
     {
+     "version": "0.40.19",
+     "tag": "v0.40.19",
+     "date": "2026-11-26T17:52:02Z",
+     "url": "https://github.com/ollama/ollama/releases/tag/v0.40.19",
+     "major": false,
+     "breaking": false
+    },
+    {
      "version": "0.40.18",
      "tag": "v0.40.18",
      "date": "2026-11-24T04:18:13Z",
@@ -18744,6 +18848,14 @@
    "page": "https://vibecodingturkey.com/releases/open-interpreter",
    "median_gap_days": 2.7054108796296297,
    "releases": [
+    {
+     "version": "0.0.65",
+     "tag": "rust-v0.0.65",
+     "date": "2026-11-28T07:39:09Z",
+     "url": "https://github.com/openinterpreter/openinterpreter/releases/tag/rust-v0.0.65",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "0.0.64",
      "tag": "rust-v0.0.64",
@@ -22695,6 +22807,14 @@
    "median_gap_days": 1.129693287037037,
    "releases": [
     {
+     "version": "2.77.0",
+     "tag": "v2.77.0",
+     "date": "2026-11-27T23:32:31Z",
+     "url": "https://github.com/pydantic/pydantic-ai/releases/tag/v2.77.0",
+     "major": false,
+     "breaking": false
+    },
+    {
      "version": "2.76.0",
      "tag": "v2.76.0",
      "date": "2026-11-26T23:49:06Z",
@@ -23072,8 +23192,16 @@
    "repo": "QwenLM/qwen-code",
    "kind": "agent",
    "page": "https://vibecodingturkey.com/releases/qwen-code",
-   "median_gap_days": 1.6615104166666668,
+   "median_gap_days": 1.6442650462962962,
    "releases": [
+    {
+     "version": "0.29.0",
+     "tag": "v0.29.0",
+     "date": "2026-11-28T10:00:05Z",
+     "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.29.0",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "0.28.7",
      "tag": "v0.28.7",
@@ -24440,8 +24568,16 @@
    "repo": "strands-agents/harness-sdk",
    "kind": "framework",
    "page": "https://vibecodingturkey.com/releases/strands-agents",
-   "median_gap_days": 5.466180555555555,
+   "median_gap_days": 4.624421296296296,
    "releases": [
+    {
+     "version": "1.68.0",
+     "tag": "python/v1.68.0",
+     "date": "2026-11-27T23:37:01Z",
+     "url": "https://github.com/strands-agents/harness-sdk/releases/tag/python/v1.68.0",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "1.67.0",
      "tag": "python/v1.67.0",
@@ -25824,8 +25960,24 @@
    "repo": "vercel/ai",
    "kind": "framework",
    "page": "https://vibecodingturkey.com/releases/vercel-ai-sdk",
-   "median_gap_days": 0.09881944444444443,
+   "median_gap_days": 0.009039351851851852,
    "releases": [
+    {
+     "version": "6.0.339",
+     "tag": "ai@6.0.339",
+     "date": "2026-11-27T23:25:36Z",
+     "url": "https://github.com/vercel/ai/releases/tag/ai%406.0.339",
+     "major": false,
+     "breaking": false
+    },
+    {
+     "version": "7.0.184",
+     "tag": "ai@7.0.184",
+     "date": "2026-11-27T23:25:22Z",
+     "url": "https://github.com/vercel/ai/releases/tag/ai%407.0.184",
+     "major": false,
+     "breaking": false
+    },
     {
      "version": "7.0.183",
      "tag": "ai@7.0.183",
